@@ -17,8 +17,10 @@ POO - Lab02
 2. Plataforma de revisión presentación en clase.
 ```
 ## Fecha de modificacion de los archivos de este lab
+```
 Los archivos fueron descargados directamente del repositorio de mi compañero de grupo en este trabajo Steven
 De ahí las horas de modificación
+```
 ![alt text](zHoraDeModificacion.PNG)
 
 
