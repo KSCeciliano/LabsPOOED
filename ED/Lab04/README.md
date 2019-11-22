@@ -31,3 +31,5 @@ referencia a código de terceros
 ```
 ## Fecha de modificacion de los archivos de este lab
 ![alt text](zHoraDeModificacion.PNG)
+
+![alt text](zHoraDeModificacionCapturas.PNG)
